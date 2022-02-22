@@ -1,0 +1,6 @@
+body, .swal2-container.swal2-backdrop-show, .swal2-container.swal2-noanimation {
+    background: url('../img/success.gif')!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+}
